@@ -17,7 +17,7 @@ To use **Minicurl**, you need Python 3.x installed on your system.
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/minicurl.git
+git clone https://github.com/braybraylon/minicurl.git
 cd minicurl
 2. Install dependencies:
 Minicurl does not require any third-party dependencies beyond the standard Python library. However, ensure you have Python 3.x installed.
@@ -103,7 +103,7 @@ Go to the Minicurl GitHub Repository and fork the project.
 bash
 Copy
 Edit
-git clone https://github.com/<your-username>/minicurl.git
+git clone https://github.com/braybraylon/minicurl.git
 cd minicurl
 3. Make your changes.
 Modify the code and add features. For example, you could add support for additional HTTP methods, improve error handling, or add logging capabilities.
