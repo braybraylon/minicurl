@@ -1,6 +1,6 @@
 # Minicurl: A Simplified `curl`-Like Tool for HTTP Requests
 
-**Minicurl** is a simple Python-based tool designed to mimic the behavior of `curl` for making HTTP requests. It allows users to send `GET` and `POST` requests with custom headers and data. The tool is ideal for testing APIs, debugging, or automating web interactions without relying on the complexity of full-fledged tools.
+
 
 ## Features
 
